@@ -93,7 +93,7 @@ function sentMsg(e) {
     ":" +
     currentdate.getMinutes();
   let st = ` <div class="sent__message">
-              <span class="sent__message-user">Amir Basiri</span>
+              <span class="sent__message-user">Admin_1</span>
               <p class="sent__message-msg"> ${textInput.value}</p>
               <span class="sent__message-date">${datetime}</span>
             </div> `;
